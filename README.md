@@ -43,15 +43,15 @@ Codewire is an Electrical Engineering Analysis Platform designed to assist engin
 
 ### Dashboard
 
-![Dashboard](screenshots/home.png)
+![Dashboard](home.png)
 
 ### Voltage Drop Analysis
 
-![Voltage Drop](screenshots/voltage-drop.png)
+![Voltage Drop](voltage-drop.png)
 
 ### Engineering Report
 
-![Report](screenshots/report.png)
+![Report](report.png)
 
 ---
 
